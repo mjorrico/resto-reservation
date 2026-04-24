@@ -1,0 +1,6 @@
+{
+  "name": "LineUp - Queue Manager",
+  "description": "A waitlist and queue management POC using short-polling and a REST API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
