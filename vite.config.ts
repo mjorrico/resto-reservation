@@ -16,6 +16,7 @@ export default defineConfig(({ mode }) => {
             },
         },
         server: {
+            allowedHosts: true,
             cors: {
                 origin: "*",
             },
